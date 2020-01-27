@@ -11,6 +11,7 @@ public class IntArrayWorkerTester
   }
   
   /** Method to test fillPattern1 */
+  /** Don't know what it does yet */
   public static void testFillPattern1()
   {
     IntArrayWorker worker = new IntArrayWorker();
